@@ -9,8 +9,12 @@
 
 **tilkynntu.is** is a dedicated platform for reporting local problems and concerns in your community. Whether it’s minor issues like broken streetlights or more serious concerns affecting neighborhood safety, **tilkynntu.is* empowers residents to voice their concerns and contribute to positive change. Our website is user-friendly, allowing users to easily submit reports, attach photos, and track the status of each issue. By working together, we can build a stronger and more effective community where every problem is acknowledged and solutions are sought. We invite you to join us in making your neighborhood a better place to live.
 
+
+
 > [!NOTE]
 > This project is developed and designed by students in Tækniskólinn
+
+
 
 
 ## Hlutverk / Roles
