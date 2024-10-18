@@ -34,7 +34,7 @@
     - SQL Databases: Used for data storage, management, and retrieval.
 
 
-> Slóð / Path
+## Slóð / Path
 tilkynntu/
 ├── .gitignore
 ├── LICENSE
