@@ -18,3 +18,17 @@
 
 
 ## Hlutverk / Roles
+
++ Frontend development
+  - Developed by: 
+  
+    - HTML
+    - CSS
+    - JavaScript
+
++ Backend Development
+  - Developed by:
+ 
+    - Python
+    - Flask
+    - SQL databases
