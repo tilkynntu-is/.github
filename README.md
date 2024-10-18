@@ -35,7 +35,7 @@
 
 
 ## Slóð / Path
-´´´
+```
 tilkynntu/
 ├── .gitignore
 ├── LICENSE
@@ -54,4 +54,4 @@ tilkynntu/
         │   ├── scripts.js
         └── assets/
             └── images/
-´´´
+```
