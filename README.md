@@ -6,10 +6,11 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/tilkynntu-is/main)
 ![License](https://img.shields.io/github/license/tilkynntu-is/main)
 
-![Python](https://img.shields.io/badge/python-3.9-blue)
-![HTML](https://img.shields.io/badge/html-5-orange)
-![CSS](https://img.shields.io/badge/css-3-blue)
-![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)
+
 
 
 **Íslenska:**
