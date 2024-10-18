@@ -12,6 +12,5 @@
 > [!NOTE]
 > This project is developed and designed by students in Tækniskólinn
 
-<br>
 
 ## Hlutverk / Roles
