@@ -12,7 +12,7 @@
 
 
 > [!NOTE]
-> This project is developed and designed by students in Tækniskólinn
+> This project is developed and designed by students in Tækniskólinn. This website is for educational purposes only.
 
 
 
