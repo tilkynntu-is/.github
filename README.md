@@ -1,4 +1,4 @@
-# .tilkynntu.is
+# tilkynntu.is
 
 **Íslenska:**
 
