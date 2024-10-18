@@ -20,14 +20,14 @@
 ## Hlutverk / Roles
 
 + Frontend development
-  - Developed by: 
+  - Developed by: Name, Name
   
     - HTML
     - CSS
     - JavaScript
 
 + Backend Development
-  - Developed by:
+  - Developed by: Name, Name
  
     - Python
     - Flask
