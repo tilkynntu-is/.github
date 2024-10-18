@@ -1,5 +1,12 @@
 # tilkynntu.is
 
+![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)
+![GitHub forks](https://img.shields.io/github/forks/username/repository?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/username/repository)
+![License](https://img.shields.io/github/license/username/repository)
+
+
+
 **Íslenska:**
 
 **tilkynntu.is** er sérhæfð vefsíða fyrir skráningu á staðbundnum vandamálum og áhyggjum í þínu samfélagi. Hvort sem um er að ræða lítil vandamál, eins og brotin götuljós, eða alvarlegri áhyggjur sem hafa áhrif á öryggi í hverfinu, veitir **tilkynntu.is** íbúum möguleika á að koma áhyggjum sínum á framfæri og stuðla að jákvæðum breytingum. Vefsvæðið okkar er notendavænt og gerir notendum kleift að skrá tilkynningar, bæta við myndum og fylgjast með stöðu hvers máls á auðveldan hátt. Með því að vinna saman getum við byggt upp sterkara og árangursríkara samfélag, þar sem hverju vandamáli er veitt athygli og leitað lausna. Við bjóðum þig velkominn til að taka þátt í því að gera þitt hverfi að betri stað til að búa.
