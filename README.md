@@ -32,3 +32,24 @@
     - Python: The primary programming language used for server-side logic.
     - Flask: A micro web framework that simplifies the development of web applications.
     - SQL Databases: Used for data storage, management, and retrieval.
+
+
+> Slóð / Path
+tilkynntu/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── CONTRIBUTING.md
+└── Verkefni 1/
+    ├── backend/
+    │   ├── app.py
+    │   ├── requirements.txt
+    │   └── templates/
+    │       ├── index.html
+    └── frontend/
+        ├── css/
+        │   ├── styles.css
+        ├── js/
+        │   ├── scripts.js
+        └── assets/
+            └── images/
