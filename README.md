@@ -20,15 +20,15 @@
 ## Hlutverk / Roles
 
 + Frontend development
-  - Developed by: Name, Name
+  - Developed by: [Name, Name]
   
-    - HTML
-    - CSS
-    - JavaScript
+    - HTML: The structure of the web pages, defining the content and layout.
+    - CSS: The styling of the web pages, ensuring a responsive and visually appealing user interface.
+    - JavaScript: The dynamic elements of the web application, enhancing user interactions and functionality.
 
 + Backend Development
-  - Developed by: Name, Name
+  - Developed by: [Name, Name]
  
-    - Python
-    - Flask
-    - SQL databases
+    - Python: The primary programming language used for server-side logic.
+    - Flask: A micro web framework that simplifies the development of web applications.
+    - SQL Databases: Used for data storage, management, and retrieval.
