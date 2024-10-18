@@ -36,7 +36,7 @@
 
 ## Slóð / Path
 ```
-tilkynntu/
+tilkynntu.is/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
